@@ -1,12 +1,11 @@
-# Smart-PDF-Q-A-System
+#Smart PDF Q&A System
 
-Project Overview
-
+#Project Overview
 This project is a Smart PDF Question and Answer System that allows users to upload a PDF document and ask questions related to its content. The system reads the document, understands the information, and provides relevant answers based on the user’s query.
 
 The main goal of this project is to reduce the time required to manually search through long documents and make information retrieval faster and easier.
 
-Features
+#Features
 Upload and read PDF documents
 Automatically extract and process text
 Ask questions related to the document
@@ -67,7 +66,7 @@ If a user uploads a document and asks:
 
 The system will search the document and return the relevant answer without requiring the user to read the entire file.
 
-Advantages
+#Advantages
 Saves time
 Easy to use
 Works on large documents
@@ -81,6 +80,6 @@ Add a user interface using Streamlit
 Support multiple PDF files
 Improve answer accuracy using advanced models
 Add voice-based query system
-Conclusion
 
+#Conclusion
 This project demonstrates how AI and language models can be used to simplify document search and improve user experience. It is useful for students, researchers, and professionals who work with large documents.
